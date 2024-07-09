@@ -2,6 +2,7 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 📫 How to reach me : go on discord and add : alan2022phone
+- im an portal modder
 
 <!---
 Agxddd/Agxddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
